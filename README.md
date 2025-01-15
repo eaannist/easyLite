@@ -1,4 +1,5 @@
-# easyLite (v1.4)
+# easyLite
+version="1.4.1"
 
 **easyLite** is a Python library that simplifies the creation, management, and querying of SQLite databases through a fluent and user-friendly API.
 
@@ -12,7 +13,7 @@
 
 ## Installation
 
-After the library is published on PyPI, you can install it with:
+You can install it with:
 
 ```bash
 pip install easyLite

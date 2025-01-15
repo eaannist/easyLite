@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="easyLite",  # This will be the PyPI package name
-    version="1.4.0",
+    version="1.4.1",
     author="Your Name",
     author_email="your_email@example.com",
     description="A fluent and user-friendly SQLite library",
