@@ -22,7 +22,7 @@ Alternatively, you can install it directly from source:
 
 ```bash
 
-git clone https://github.com/your-username/easyLite.git
+git clone https://github.com/eaannist/easyLite.git
 cd easyLite
 pip install .
 ```
