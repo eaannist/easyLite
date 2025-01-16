@@ -1,7 +1,7 @@
 # __init__.py
 # BANNER
 print(  '\n $$$$$$$$$$$$$$$$$$$$',
-        '\n $$ easyLite  v1.6 $$',
+        '\n $$ easyLite  v1.7 $$',
         '\n $$ >> by eaannist $$',
         '\n $$$$$$$$$$$$$$$$$$$$',
         '\n')

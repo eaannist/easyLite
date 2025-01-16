@@ -1,5 +1,5 @@
 # easyLite
-- Version **1.7.0**
+- Version **1.7**
 
 **easyLite** is a Python library designed to simplify interactions with SQLite databases. With its fluent and intuitive interface, easyLite makes it effortless to interacting with SQLite databases.
 
@@ -25,7 +25,7 @@ pip install easyLite
 
 ## Usage Guide
 
-Below is a step-by-step guide to using easyLite based on the provided test script.
+Below is a step-by-step guide to using easyLite based on the provided test script (which is recommended to try).
 
 ### 1. Initialization
 ```python
